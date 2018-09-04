@@ -1,0 +1,23 @@
+{
+  "name": "node-daemons",
+  "version": "0.0.1",
+  "description": "Daemons module for s-nomp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-nomp/node-daemons.git"
+  },
+  "author": "s-nomp developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-nomp/node-daemons/issues"
+  },
+  "homepage": "https://github.com/s-nomp/node-daemons#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
